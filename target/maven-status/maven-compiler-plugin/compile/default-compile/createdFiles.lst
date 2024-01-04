@@ -1,0 +1,11 @@
+Aspects\LoggingAspect.class
+Aspects\ToLog.class
+Proxies\CarSellProxy.class
+Repository\DBCarRepository.class
+Repository\CarRepository.class
+Proxies\NewCarSellProxy.class
+Services\CarSellService.class
+Config\ProjectConfig.class
+Main\Main.class
+Model\Car.class
+Proxies\UsedCarSellProxy.class
